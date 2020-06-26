@@ -1,0 +1,87 @@
+body{
+	text-align: center;
+	font-family: 'Libre Caslon Text', serif;
+}
+
+#title{
+	background-color: #97e5ef;
+	color: #FFF;
+}
+.big-heading{
+	padding: 7%;
+}
+.testimonial-img{
+	width: 80%;
+}
+.testimonial-text{
+	padding: 3%;
+}
+.carousel-item{
+	padding: 7% 7%;
+}
+.feature-box{
+	padding: 5%;
+}
+.icon-style{
+	color: grey;
+}
+.icon-style:hover{
+	color: black;
+}
+
+#subscribe{
+	background-color: #222831;
+	color: #fff;
+	padding: 7% 15%;
+}
+
+#footer{
+	padding: 10% 7% 0;
+}
+.social-icon{
+	margin: 20px 10px;
+}
+
+/*Men's section*/
+
+#heading{
+	text-align: center;
+	padding: 0 15% 3%;
+}
+.cart{
+	text-align: right;
+	padding: 0 0 7%;
+}
+.cart-title{
+	color: black;
+
+}
+.cart-title:hover{
+color: grey;
+}
+.head-img{
+	width: 20%;
+}
+
+#shirts, #T-shirt, #jeans{
+  padding: 7% 15% 3%;
+}
+
+#shirts, #jeans{
+	background-color: #c3edea;
+}
+
+#T-shirt, #heading{
+	background-color: #ffe8df;
+}
+
+.gallery{
+	padding: 3%;
+}
+
+.shirt-img{
+	width: 40%;
+}
+.figure-caption{
+	font-size: 2rem;
+}
